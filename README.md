@@ -5,7 +5,7 @@ A simplified yet refined Docker Compose workflow that sets up a LEMP network of 
 
 Use the following when installing WP
 
-http://localhost:5000
+http://localhost:5050
 
 Database Name: wp
 User Name: wp

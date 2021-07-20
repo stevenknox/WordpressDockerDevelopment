@@ -1,0 +1,70 @@
+[
+    {
+        "local": {
+            "id": 1,
+            "name": "Brazil",
+            "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png"
+        },
+        "visit": {
+            "id": 2,
+            "name": "Bolivia",
+            "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/SGxeD7yhwPj53FmPBmMMHg_48x48.png"
+        },
+        "localGoal": 0,
+        "visitGoal": 0,
+        "matchDate": "Fri, 6/14",
+        "matchTime": "20:30",
+        "status": "pending"
+    },
+    {
+        "local": {
+            "id": 2,
+            "name": "Venezuela",
+            "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/ohjuAvV5dzyPZSEWWNNd_Q_48x48.png"
+        },
+        "visit": {
+            "id": 2,
+            "name": "Peru",
+            "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/1ZizIpPB_eo-u8zYYjnFcg_48x48.png"
+        },
+        "localGoal": 0,
+        "visitGoal": 0,
+        "matchDate": "Sat, 6/15",
+        "matchTime": "15:00",
+        "status": "pending"
+    },
+    {
+        "local": {
+            "id": 2,
+            "name": "Argentina",
+            "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png"
+        },
+        "visit": {
+            "id": 2,
+            "name": "Colombia",
+            "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_48x48.png"
+        },
+        "localGoal": 0,
+        "visitGoal": 0,
+        "matchDate": "Sat, 6/15",
+        "matchTime": "18:00",
+        "status": "pending"
+    },
+    {
+        "local": {
+            "id": 2,
+            "name": "Paraguay",
+            "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/-FN-y84Al3dbth0hW1t5Qg_48x48.png"
+        },
+        "visit": {
+            "id": 2,
+            "name": "Qatat",
+            "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/h0FNA5YxLzWChHS5K0o4gw_48x48.png"
+        },
+        "localGoal": 0,
+        "visitGoal": 0,
+        "matchDate": "Sun, 6/16",
+        "matchTime": "15:00",
+        "status": "pending"
+    }
+]
